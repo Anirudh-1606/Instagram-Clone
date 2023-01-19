@@ -1,6 +1,6 @@
 
 
-## Deploed Link
+## Deployed Link
 
 https://anirudh-instagram.netlify.app/
 
