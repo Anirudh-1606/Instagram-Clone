@@ -1,0 +1,25 @@
+.user-pannel {
+	height: 25vh;
+}
+.pro-pic img {
+	border-radius: 50%;
+}
+.pro-pic {
+}
+.info {
+}
+.info-header,
+.post-info {
+	width: 18vw;
+	justify-content: space-between;
+	margin-bottom: 30px;
+}
+.info-header p {
+	font-size: 21px;
+}
+.bio-head p {
+	font-weight: 500;
+}
+.bio p {
+	font-size: 13px;
+}

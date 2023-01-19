@@ -1,0 +1,22 @@
+.header {
+	padding: 5px 0px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	align-items: center;
+}
+.search-bar {
+	padding: 6px 8px;
+	border-radius: 10px;
+	background-color: #efefef;
+}
+.search-bar input {
+	border: none;
+	background-color: inherit;
+	width: 300px;
+	padding-left: 5px;
+}
+.btns {
+	display: flex;
+	flex-direction: row;
+}
